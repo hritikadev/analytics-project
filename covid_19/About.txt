@@ -1,4 +1,4 @@
-In this project, data is taken from the website 'Our world in Data'. ( Link : https://ourworldindata.org/covid-deaths )
+In this project, data is taken from the website [Our world in Data](https://ourworldindata.org/covid-deaths).
 The data is in the form of 2 datasets
     - covid 19 deaths
     - covid 19 vaccinations
