@@ -1,1 +1,7 @@
+One can download the dataset from the folder in xlsx format
+The pdf of the dashboard has been uploaded and along downloadable link for the dashboard.
+
+** can't help powerBI requires paid subscription to upload the dashboards.
+*** If anyone knows how to upload it for free do share.
+
 Power BI dashboard : [Link](https://drive.google.com/file/d/1QC9FH-EFOAOO31miTWBxxz9R23yKtDvm/view?usp=sharing)
